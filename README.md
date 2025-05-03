@@ -13,9 +13,9 @@ This is the backend API for the TickTick-inspired Task Management App. It suppor
 ---
 
 ## 📁 Project Structure
-##backend/
-##│
-##├── controllers/ # API logic
+**backend/**
+**│**
+**├── controllers/ # API logic**
 ##├── models/ # DB schema & queries
 ##├── routes/ # Route definitions
 ##├── utils/ # Helper functions
