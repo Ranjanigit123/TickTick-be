@@ -37,4 +37,4 @@ npm install
 npm run dev
 
 ##Your backend will be live at:
-##http://localhost:5000
+http://localhost:5000
