@@ -28,7 +28,7 @@ backend/
 ### 1. Clone the repo or download zip file
 
 git clone https://github.com/your-username/task-manager-backend.git
-##cd task-manager-backend
+### cd task-manager-backend
 
 2. Install dependencies: 
 npm install
@@ -36,5 +36,5 @@ npm install
 4. Running the Server: 
 npm run dev
 
-##Your backend will be live at:
+Your backend will be live at:
 http://localhost:5000
