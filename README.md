@@ -38,3 +38,4 @@ npm run dev
 
 Your backend will be live at:
 http://localhost:5000
+### you add in url : http://localhost:5000/api/tasks
