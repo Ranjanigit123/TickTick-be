@@ -13,27 +13,28 @@ This is the backend API for the TickTick-inspired Task Management App. It suppor
 ---
 
 ## 📁 Project Structure
-backend/
-│
-├── controllers/ # API logic
-├── models/ # DB schema & queries
-├── routes/ # Route definitions
-├── utils/ # Helper functions
-├── app.js / main.ts # App entry point
-├── .env # Environment variables
-└── package.json # Dependencies
+##backend/
+##│
+##├── controllers/ # API logic
+##├── models/ # DB schema & queries
+##├── routes/ # Route definitions
+##├── utils/ # Helper functions
+##├── app.js / main.ts # App entry point
+##├── .env # Environment variables
+##└── package.json # Dependencies
+
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repo or download zip file
 
-git clone https://github.com/your-username/task-manager-backend.git
-cd task-manager-backend
+##git clone https://github.com/your-username/task-manager-backend.git
+##cd task-manager-backend
 
-2. Install dependencies
-npm install
+##2. Install dependencies
+##npm install
 
-4. Running the Server
-npm run dev
+##4. Running the Server
+##npm run dev
 
-Your backend will be live at:
-http://localhost:5000
+##Your backend will be live at:
+##http://localhost:5000
